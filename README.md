@@ -1,11 +1,11 @@
-# Frontend Mentor - Recipe page - верстка і стилізація проекту головної сторінки сайту новин
+# Frontend Mentor - Clipboard landing page - верстка і стилізація проекту головної сторінки сайту новин
 
-Це рішення до челенджу [Recipe page](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Завдання від Frontend Mentor допомагають покращити навички веброзробки, створюючи реалістичні проєкти.
+Це рішення до челенджу [Clipboard landing page](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9). Завдання від Frontend Mentor допомагають покращити навички веброзробки, створюючи реалістичні проєкти.
 
 ## Зміст
 
 - [Огляд](#огляд)
-  - [Завдання](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
+  - [Завдання](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9)
   - [Скріншот](#дизайн)
   - [Посилання](#посилання)
 - [Мій процес](#як-я-це-зробив)
@@ -31,8 +31,8 @@
 
 ### Посилання
 
-- [Рішення URL:](https://github.com/stoneandre/super_kitchen)
-- [Живий сайт URL:](https://stoneandre.github.io/super_kitchen/)
+- [Рішення URL:](https://github.com/stoneandre/clipboard)
+- [Живий сайт URL:](https://stoneandre.github.io/clipboard/)
 
 ## Як я це зробив
 
